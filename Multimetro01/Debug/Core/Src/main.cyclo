@@ -1,0 +1,14 @@
+../Core/Src/main.c:96:1:__io_putchar	1
+../Core/Src/main.c:113:5:main	4
+../Core/Src/main.c:175:6:SystemClock_Config	4
+../Core/Src/main.c:225:13:MX_ADC1_Init	4
+../Core/Src/main.c:292:13:MX_I2C1_Init	4
+../Core/Src/main.c:340:13:MX_TIM2_Init	4
+../Core/Src/main.c:385:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:418:13:MX_DMA_Init	1
+../Core/Src/main.c:436:13:MX_GPIO_Init	1
+../Core/Src/main.c:469:5:Func_ESTADO_INICIAL	2
+../Core/Src/main.c:483:5:Func_ESTADO_INTERMEDIO	5
+../Core/Src/main.c:500:5:Func_ESTADO_MEDIDOR	2
+../Core/Src/main.c:518:6:HAL_TIM_PeriodElapsedCallback	4
+../Core/Src/main.c:567:6:Error_Handler	1
